@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\",
+  "WorkspaceRootPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7CC1C26-2C4D-4D79-AC84-3C883AAF86FD}|csharp-expense-system\\csharp-expense-system.csproj|c:\\users\\jonny\\onedrive\\documentos\\c# aulas\\csharp-expense-system\\csharp-expense-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7CC1C26-2C4D-4D79-AC84-3C883AAF86FD}|csharp-expense-system\\csharp-expense-system.csproj|c:\\users\\jonny\\onedrive\\documentos\\csharp-expense-system\\csharp-expense-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7CC1C26-2C4D-4D79-AC84-3C883AAF86FD}|csharp-expense-system\\csharp-expense-system.csproj|solutionrelative:csharp-expense-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\Program.cs",
               "RelativeDocumentMoniker": "csharp-expense-system\\Program.cs",
-              "ToolTip": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\Program.cs",
+              "ToolTip": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\Program.cs",
               "RelativeToolTip": "csharp-expense-system\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwJAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T23:21:10.318Z",
               "EditorCaption": ""

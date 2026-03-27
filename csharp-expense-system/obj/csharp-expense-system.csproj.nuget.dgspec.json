@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj": {}
+    "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj": {
+    "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj",
+        "projectUniqueName": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj",
         "projectName": "csharp-expense-system",
-        "projectPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj",
+        "projectPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\csharp-expense-system.csproj",
         "packagesPath": "C:\\Users\\jonny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\C# Aulas\\csharp-expense-system\\csharp-expense-system\\obj\\",
+        "outputPath": "C:\\Users\\jonny\\OneDrive\\Documentos\\csharp-expense-system\\csharp-expense-system\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
