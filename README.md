@@ -22,19 +22,19 @@ Um sistema simples de controle de gastos desenvolvido em C#, utilizando um CRUD 
 * Validação de entrada (`TryParse`)
 * Manipulação de datas (`DateTime`)
 
-## 🛠️ Tecnologias
+## ⚙️ Tecnologias
 
-* C#
-* .NET
+- **C#**  
+- **.NET** 
 
 ## ▶️ Como Executar
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/JoaoMarcu/JogoRPG.git
+git clone https://github.com/JoaoMarcu/csharp-expense-system.git
 
 # Entrar na pasta do projeto
-cd JogoRPG
+cd csharp-expense
 
 # Executar o projeto
 dotnet run
