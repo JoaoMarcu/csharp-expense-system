@@ -27,13 +27,17 @@ Um sistema simples de controle de gastos desenvolvido em C#, utilizando um CRUD 
 * C#
 * .NET
 
-## ▶️ Como executar
+## ▶️ Como Executar
 
 ```bash
-git clone https://github.com/JoaoMarcu/csharp-expense-system.git
-cd nome-do-repositorio
+# Clonar o repositório
+git clone https://github.com/JoaoMarcu/JogoRPG.git
+
+# Entrar na pasta do projeto
+cd JogoRPG
+
+# Executar o projeto
 dotnet run
-```
 
 ## 📷 Exemplo de uso
 
