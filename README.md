@@ -34,7 +34,7 @@ Um sistema simples de controle de gastos desenvolvido em C#, utilizando um CRUD 
 git clone https://github.com/JoaoMarcu/csharp-expense-system.git
 
 # Entrar na pasta do projeto
-cd csharp-expense
+cd csharp-expense-system
 
 # Executar o projeto
 dotnet run
