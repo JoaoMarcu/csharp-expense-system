@@ -38,6 +38,7 @@ cd JogoRPG
 
 # Executar o projeto
 dotnet run
+```
 
 ## 📷 Exemplo de uso
 
