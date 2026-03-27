@@ -1,4 +1,3 @@
-# csharp-expense-system
 # 💸 Controle de Gastos (Console App em C#)
 
 Um sistema simples de controle de gastos desenvolvido em C#, utilizando um CRUD completo no terminal.
